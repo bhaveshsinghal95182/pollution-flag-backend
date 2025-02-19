@@ -1,4 +1,6 @@
-Research on monitoring vehicle pollutant emissions and using Convolutional Neural Networks (CNNs) to assess these emissions has gained traction in recent years. Here are some key aspects of this area of study:
+# Pollution Check
+
+Research on monitoring vehicle pollutant emissions and using Deep Learning (DL) to assess these emissions has gained traction in recent years. Here are some key aspects of this area of study:
 
 ## **Pollutant Emission Monitoring Techniques**
 
@@ -7,11 +9,11 @@ Research on monitoring vehicle pollutant emissions and using Convolutional Neura
 - **Air Quality Monitoring**: Traditional air quality monitors are often placed away from pollution sources, which can lead to skewed data regarding the impact of specific vehicle types, especially electric vehicles (EVs) versus internal combustion engine (ICE) vehicles. This has implications for understanding local air quality improvements due to EV adoption[1](https://www.reddit.com/r/askscience/comments/wgu46r/is_there_any_evidence_that_cities_with_high/).
     
 
-## **Application of CNN Models**
+## **Application of DL Models**
 
-- **Deep Learning for Emission Classification**: CNNs have been applied to classify vehicle emissions based on visual data. For example, researchers can use images from traffic cameras or sensors to identify vehicles and predict their emissions profiles. This approach can categorize vehicles into "red" or "green" flags based on their emission levels, helping authorities enforce regulations more effectively.
+- **Deep Learning for Emission Classification**: DLs have been applied to classify vehicle emissions based on big data. For example, researchers can use sensors to identify vehicles and predict their emissions profiles. This approach can categorize vehicles into "red" or "green" flags based on their emission levels, helping authorities enforce regulations more effectively.
     
-- **Data-Driven Approaches**: Recent advancements in machine learning, particularly CNNs, enable the analysis of large datasets collected from various sources, including onboard diagnostics and traffic cameras. This allows for more accurate predictions and classifications of vehicle emissions based on real-world driving conditions[5](https://www.reddit.com/r/IAmA/comments/hg9u8s/im_vlad_voroninski_ceo_of_helmai_we_recently/).
+- **Data-Driven Approaches**: Recent advancements in machine learning, particularly CNNs, enable the analysis of large datasets collected from various sources, including onboard diagnostics. This allows for more accurate predictions and classifications of vehicle emissions based on real-world driving conditions[5](https://www.reddit.com/r/IAmA/comments/hg9u8s/im_vlad_voroninski_ceo_of_helmai_we_recently/).
     
 
 ## **Challenges and Considerations**
@@ -22,7 +24,6 @@ Research on monitoring vehicle pollutant emissions and using Convolutional Neura
 
 - **Data privacy**: The model in itself is modular, which means it can run on almost any small machine like raspberry pie, hence the data in itself can be made to either leave the premise or stay for local considerations.
 
-In summary, the integration of advanced monitoring techniques with machine learning models like CNNs presents a promising avenue for accurately assessing vehicle emissions and improving air quality management strategies. Ongoing research in this field is critical for developing effective policies to mitigate pollution from transportation sources.
 
 ### Citations:
 
